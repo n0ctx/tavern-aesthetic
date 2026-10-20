@@ -22,7 +22,7 @@
 | 来源 | 适用素材 | 许可要点 |
 | --- | --- | --- |
 | [Poly Haven Textures](https://polyhaven.com/textures) | 金属、纸面感、石材、墙面、木材等纹理 | 站内自有资产为 CC0；按需使用低分辨率版本，避免无意义的 4K/8K 贴图 |
-| [Game-icons.net](https://game-icons.net/) | 技能、状态、道具、武器图标（SVG） | 多数为 CC BY 3.0，须保留作者署名；个别为公有领域，逐项核对 |
+| [Game-icons.net](https://game-icons.net/) | 技能、状态、道具、武器图标（SVG） | 多数为 CC BY 3.0，须保留作者署名；个别为公有领域，逐项核对。风格偏游戏化，和照片或古画放在一起通常不协调 |
 | [Kenney](https://kenney.nl/assets) | 游戏 UI 图形包、通用游戏素材 | 资产页面的游戏素材通常为 CC0；以目标资产页及压缩包内的许可为准 |
 | [Google Fonts](https://fonts.google.com/) | 中文及英文字体 | 按字体查看许可证与中文字形覆盖。中文字体文件较大，注意加载量与后备字体 |
 
