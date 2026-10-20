@@ -2,7 +2,18 @@
 
 为角色扮演、互动小说、游戏面板、人物档案和叙事型网页提供沉浸式界面设计指导的 AI Skill。
 
-重点包括作品独有的美术概念、主视觉与信息层级、素材风格统一、中文可读性，以及可操作的实际界面。独立于 SillyTavern 和具体前端框架，优先沿用项目已有实现；有明确视觉需求时，可按需使用现有 AI 生图能力。
+重点包括：
+
+- 作品独有的视觉身份。
+- 界面与世界观的融合。
+- 主视觉与信息层级。
+- 插画素材优先（AI 生图或网络收集），代码手绘只作概念验证占位。
+- 素材风格统一。
+- 中文可读性与可操作的实际界面。
+
+复杂界面按分阶段流程推进：先定调与构图，再把核心样板做到成品精度，然后逐模块扩展和整体精修，以达到作品级完成度。
+
+独立于 SillyTavern 和具体前端框架，优先沿用项目已有实现。有明确视觉需求时，可以按需使用现有 AI 生图能力。
 
 ## 安装
 
@@ -24,5 +35,8 @@ Claude Code 可安装到 `~/.claude/skills/tavern-aesthetic`。若目标目录�
 
 ## 文件
 
-- [SKILL.md](SKILL.md)：适用范围、设计流程和交付要求。
+- [SKILL.md](SKILL.md)：目标、核心原则、任务分级、执行流程、视觉复查和交付要求。
+- [references/design-knowledge.md](references/design-knowledge.md)：设计知识库，包括各设计维度的手法、跨维度取舍和失败模式。
+- [references/workflow.md](references/workflow.md)：复杂任务的分阶段流程、通过标准、复查方法、回退规则与设计记录模板。
 - [references/asset-sources.md](references/asset-sources.md)：按需素材来源与许可核对指引。
+- [references/research.md](references/research.md)：研究依据、来源与局限。
